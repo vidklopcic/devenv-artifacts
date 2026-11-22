@@ -1,0 +1,13 @@
+{
+ "version": 17,
+ "files": {
+  "devenv-device-darwin-amd64": "389011d810248e72aa520130af716bfc6249dfd3122bee1176f19b1dce48f969",
+  "devenv-device-darwin-arm64": "8f0c7cc06f18199a235a9ba25053d8a89196669560a39b8379caabb1e5f3ab91",
+  "devenv-device-linux-amd64": "cda82fc2314400d0ffa4037b46ee911e815a6059e539ba0beab1f0acd0b51df4",
+  "devenv-device-linux-arm64": "aaabe5af527b2226cb16cb0944a46658d582d93caad7d4fb02dea7161aacf45f",
+  "devenv-device-linux-armv6": "4727cd46ce41300b6f68b365494ef8e6fc6e432e568576f260e5972e639b662e",
+  "devenv-device-linux-armv7": "9728749dc2e7fd03caad876e9c90083a656fa0819d2f3c98577fefb5ca2187b6",
+  "devenv-device-windows-amd64.exe": "d805ad296e3d643905d71637b3c143007866fa7ff90638ab8fe3aba23256d646",
+  "devenv-device-windows-arm64.exe": "ffc85ec1355fc349b30f993b1622a89691dd640810c6639c56f76409d27f3427"
+ }
+}
